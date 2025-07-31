@@ -2,6 +2,7 @@
     <test name="RegressionTest">
         <classes>
             <class name="Elements"/>
+            <class name="Forms"/>
         </classes>
     </test>
 </suite>
