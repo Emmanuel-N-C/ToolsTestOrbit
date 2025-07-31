@@ -14,7 +14,7 @@
 - **Buttons** – Automates double-click, right-click, and single-click interactions.  
 - **Links** – Handles API-triggered links, skipping navigation links.
 ### **Forms**
-**Forms** – Full form submission automation and validation.
+**Form** – Full form submission automation and validation.
 
 ---
 
