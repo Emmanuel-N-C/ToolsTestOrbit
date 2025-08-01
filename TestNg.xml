@@ -3,6 +3,7 @@
         <classes>
             <class name="Elements"/>
             <class name="Forms"/>
+            <class name="AFW" />
         </classes>
     </test>
 </suite>
