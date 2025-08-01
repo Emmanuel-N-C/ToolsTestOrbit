@@ -18,7 +18,7 @@
 **Form** – Full form submission automation and validation.
 
 ### **Alerts, Frames & Windows**
-**Alert, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs  
+**Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs  
 
 ---
 
