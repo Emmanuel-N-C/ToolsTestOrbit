@@ -18,10 +18,10 @@
 **Form** – Full form submission automation and validation.
 
 ### **Alerts, Frames & Windows**
-**Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs  
+**Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs.
 
 ### **Widgets**
-**Widgets** – Automating date pickers, sliders, and progress bars  
+**Widgets** – Automating date pickers, sliders, and progress bars.
 
 ---
 
