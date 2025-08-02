@@ -20,13 +20,15 @@
 ### **Alerts, Frames & Windows**
 **Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs  
 
+### **Widgets**
+**Widgets** – Automating date pickers, sliders, and progress bars  
+
 ---
 
 ##  Upcoming Modules
 
 Planned enhancements for future releases:
 
-- **Widgets** – Automating date pickers, sliders, and progress bars  
 - **Interactions** – Drag-and-drop, resizable elements, and selectable lists  
 - **Advanced Reporting** – Integration with Extent Reports or Allure  
 
