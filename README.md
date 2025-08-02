@@ -13,8 +13,12 @@
 - **Web Tables** – Add and delete records dynamically.  
 - **Buttons** – Automates double-click, right-click, and single-click interactions.  
 - **Links** – Handles API-triggered links, skipping navigation links.
+  
 ### **Forms**
 **Form** – Full form submission automation and validation.
+
+### **Alerts, Frames & Windows**
+**Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs  
 
 ---
 
@@ -22,7 +26,6 @@
 
 Planned enhancements for future releases:
 
-- **Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs  
 - **Widgets** – Automating date pickers, sliders, and progress bars  
 - **Interactions** – Drag-and-drop, resizable elements, and selectable lists  
 - **Advanced Reporting** – Integration with Extent Reports or Allure  
