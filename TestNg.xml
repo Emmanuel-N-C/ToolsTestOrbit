@@ -4,6 +4,7 @@
             <class name="Elements"/>
             <class name="Forms"/>
             <class name="AFW" />
+            <class name="Widgets" />
         </classes>
     </test>
 </suite>
