@@ -23,15 +23,8 @@
 ### **Widgets**
 **Widgets** – Automating date pickers, sliders, and progress bars.
 
----
-
-##  Upcoming Modules
-
-Planned enhancements for future releases:
-
-- **Interactions** – Drag-and-drop, resizable elements, and selectable lists  
-- **Advanced Reporting** – Integration with Extent Reports or Allure  
-
+### **Interactions**
+**Interactions** – Drag-and-drop, resizable elements, and selectable lists 
 
 ---
 
