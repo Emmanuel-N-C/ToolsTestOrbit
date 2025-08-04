@@ -5,6 +5,7 @@
             <class name="Forms"/>
             <class name="AFW" />
             <class name="Widgets" />
+            <class name="Interactions"/>
         </classes>
     </test>
 </suite>
