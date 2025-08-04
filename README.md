@@ -24,7 +24,7 @@
 **Widgets** – Automating date pickers, sliders, and progress bars.
 
 ### **Interactions**
-**Interactions** – Drag-and-drop, resizable elements, and selectable lists 
+**Interactions** – Drag-and-drop, resizable elements, and selectable lists.
 
 ---
 
