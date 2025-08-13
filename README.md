@@ -15,7 +15,7 @@
 - **Links** – Handles API-triggered links, skipping navigation links.
   
 ### **Forms**
-**Form** – Full form submission automation and validation.
+**Forms** – Full form submission automation and validation.
 
 ### **Alerts, Frames & Windows**
 **Alerts, Frames & Windows** – Handling alerts, modal dialogs, and multiple windows/tabs.
